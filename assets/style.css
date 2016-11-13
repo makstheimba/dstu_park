@@ -1,3 +1,11 @@
-p {
-    color: red;
+h3 {
+    display: inline-block;
+    padding: 10px;
+    background: rgba(100, 100, 100, 0.7);
+    border-radius: 10px;
+}
+.fullscreen {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
